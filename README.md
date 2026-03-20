@@ -1,10 +1,4 @@
-# Volunteer-Hub
-- **Website:** [Volunteer-Hub Production](https://volunteering-web-production.up.railway.app/)
-- **Demo video:** [Volunteer-Hub Video](https://www.youtube.com/watch?v=JuzhoAkQCMA)
 
-## Tampilan UI/UX
-Dokumentasi desain :
-> [Lihat Prototype di Figma](https://www.figma.com/design/xEa0d24WmquhUwAcDcksFC/RelawanIndonesia-temp-?node-id=0-1&t=G0SuCA58h9slE6o1-1)
 
 ## Main Feature
 - **Eksplorasi Kegiatan:** Cari dan filter berbagai program relawan berdasarkan kategori, lokasi, dan tanggal.
