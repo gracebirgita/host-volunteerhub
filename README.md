@@ -1,4 +1,4 @@
-
+This project is designed to help individuals discover volunteer opportunities effortlessly while enabling organizations to manage their volunteer programs smoothly and efficiently.
 
 ## Main Feature
 - **Eksplorasi Kegiatan:** Cari dan filter berbagai program relawan berdasarkan kategori, lokasi, dan tanggal.
